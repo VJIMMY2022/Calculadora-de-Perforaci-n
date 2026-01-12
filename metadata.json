@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora de Perforación Pro",
+  "description": "Una aplicación avanzada para cálculos de perforación, incluyendo cantidad de barras, sobrante y longitud de herramienta, con visualización de datos y asistencia inteligente.",
+  "requestFramePermissions": []
+}
